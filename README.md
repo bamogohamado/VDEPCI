@@ -1,9 +1,9 @@
 
 ## Description
 
-La méthode VDEPCI est une approche d'aide a la décision multicritere.
+La méthode VDEPCI est une méthode de Vote basée sur une Distance d'Evaluation des Préférences par rapport au Candidat Idéal.
 Ce dépôt fournit :
-- l'implémentation complète de l'algorithme VDEPCI,
+- l'implémentation complète de la méthode de vote VDEPCI,
 - les jeux de données utilisés dans les exemples numériques,
 - les scripts dédiés a l'étude de la complexité algorithmique.
 
