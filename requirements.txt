@@ -4,4 +4,5 @@ random
 time
 matplotlib.pyplot
 seaborn
-experiment_data import run_experiment
+experiment_data 
+run_experiment
