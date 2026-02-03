@@ -3,6 +3,4 @@ pandas
 random
 time
 matplotlib.pyplot
-seaborn
-experiment_data 
-run_experiment
+seaborn 
