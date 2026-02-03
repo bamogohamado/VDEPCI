@@ -1,1 +1,7 @@
-
+numpy
+pandas
+random
+time
+matplotlib.pyplot
+seaborn
+experiment_data import run_experiment
